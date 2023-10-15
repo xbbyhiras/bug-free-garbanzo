@@ -10,7 +10,7 @@
           "test",
           "e2e"
         ],
-        "accessToken": "NmY0NTM3NWItNmMyZC00MDVjLWIxYTItMTI1ZTU4ZWFmNzQ1fHJlYWQtd3JpdGU="
+        "accessToken": "OTdjNDhjOGYtMGMxZS00YzI5LWI3ZmQtZjZhN2JiODMxMTcyfHJlYWQtd3JpdGU="
       }
     }
   },
@@ -68,7 +68,7 @@
       "application": {
         "style": "css",
         "linter": "eslint",
-        "bundler": "rspack",
+        "bundler": "webpack",
         "babel": true
       },
       "component": {
