@@ -3,6 +3,10 @@ test chromatic integration
 
 * Architecture
 ** Components
-- React monorepo with Nx
-- Testing with @nx/storybook and pipeline with Chromatic
-- UI lib is brutal
+*** React monorepo with Nx
+- Rspack bundler
+- Playwright E2E
+*** Testing with @nx/storybook and pipeline with Chromatic
+*** UI 
+- vanila css
+- lib is brutal
